@@ -29,4 +29,5 @@ figcaption {
 div {
   display: block;
   float: left;
+  text-align: center;
 }
