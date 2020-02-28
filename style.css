@@ -6,4 +6,6 @@ body {
 header {
   text-align: center;
 }
-i
+img {
+  margin: auto;
+}
